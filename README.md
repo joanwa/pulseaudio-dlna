@@ -231,6 +231,8 @@ _Keep in mind that since i am not using those, i can hardly support them!_
     [https://copr.fedoraproject.org/coprs/cygn/pulseaudio-dlna/](https://copr.fedoraproject.org/coprs/cygn/pulseaudio-dlna/)
 - Debian
     [https://packages.debian.org/sid/pulseaudio-dlna](https://packages.debian.org/sid/pulseaudio-dlna)
+- Solus
+    [https://git.solus-project.com/packages/pulseaudio-dlna/]
 
 ## Installation via git ##
 
